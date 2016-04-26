@@ -226,6 +226,9 @@ If you'd like Ouibounce to work in legacy JS engines (IE8 and below, for example
 
 [Kevin Weber](http://kevinw.de/wbounce) wrote [wBounce](https://wordpress.org/plugins/wbounce/), a WordPress plugin. I personally have __not__ tested it, but have heard it works really well. Check it out.
 
+### Joomla
+Template Plaza released a Joomla! Module for free.  https://www.templateplazza.com/items/jbounce.
+
 ### Miscellaneous
 
 - This library provides no guarantees.
